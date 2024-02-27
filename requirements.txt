@@ -4,4 +4,4 @@ pip install seaborn
 pip install urlextract
 pip install wordcloud
 pip install pandas
-pip install emoji
+pip install emoji 
