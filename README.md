@@ -14,7 +14,7 @@ Analyzing your WhatsApp chats made easy with this Streamlit app. Upload your cha
 
 1. Clone the repository: `git clone https://github.com/AmarJyotiPanda/whatsapp-chat-analyzer.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py`
+3. Run the app: `streamlit run Main.py`
 
 🚀 Results
 
